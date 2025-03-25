@@ -1,0 +1,31 @@
+body {
+    font-family: "Public Sans", sans-serif;
+    color: #fff;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 40px 10px;
+}
+
+.container li {
+    padding: 2px;
+}
+
+.container .pintura {
+    position: relative;
+}
+
+.container .pintura .nome{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.container .pintura .nome h1{
+    padding-bottom: 6px;
+}
+
+
+

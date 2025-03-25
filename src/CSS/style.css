@@ -1,0 +1,14 @@
+@media (min-width: 1441px) {
+    .container ul {
+        display: flex;
+        margin: 100px auto;
+    }
+
+    .container li {
+        padding: 0 10px;
+    }
+
+    .container .pintura .nome{
+        bottom: 40px;
+    }
+}
